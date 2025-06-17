@@ -2,4 +2,5 @@ This is a turn-based battle game inspired by pokemon! The goal is to explore and
 
 All the code is within the src or source file! I have included the mp3's and pngs so the struture of the project remains the same!
 
+Game Demo:
 ![democopy3-ezgif com-optimize](https://github.com/user-attachments/assets/8646f638-f47c-4442-bfb8-37bb3030a7f4)
