@@ -1,0 +1,6 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/jv777/CLionProjects/FinalProjGame -B /Users/jv777/CLionProjects/FinalProjGame/cmake-build-debug
+-- Configuring libogg 1.3.5
+-- Configuring vorbis 1.3.7
+-- Configuring done (1.3s)
+-- Generating done (0.1s)
+-- Build files have been written to: /Users/jv777/CLionProjects/FinalProjGame/cmake-build-debug
